@@ -1,2 +1,2 @@
 #!/bin/bash
-cp .hello webjs.html
+cp -hello  webjs.html
